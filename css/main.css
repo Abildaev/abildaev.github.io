@@ -1,0 +1,46 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  font-weight: 200;
+  font-family: "AGAvalancheC";
+  font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4 {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+
+.container {
+  padding: 100px 15px;
+  margin: 0 auto;
+  max-width: 1170px;
+}
+
+.wrapper {
+  position: relative;
+  overflow: hidden;
+  min-height: 100%;
+}
+
+.mainTitle {
+  font-size: 40px;
+  text-transform: capitalize;
+  
+}
+
+.subtitle {
+  min-height: 55px;
+}
